@@ -23,7 +23,7 @@ data:extend(
     type = "module",
     name = "effectivity-module-4",
     localised_description = {"item-description.effectivity-module"},
-    icon = "__base__/graphics/icons/effectivity-module-3.png",
+    icon = "__MKX__/graphics/icons/effectivity-module-4.png",
     icon_size = 64, icon_mipmaps = 4,
     subgroup = "module",
     category = "effectivity",

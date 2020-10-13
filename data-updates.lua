@@ -1,1 +1,1 @@
---data.raw.allowed_effects["beacon"]= {"consumption", "speed", "pollution"}
+

@@ -1,4 +1,6 @@
 require("prototypes.item.armor")
+require("prototypes.item.module")
 require("prototypes.equipment-grid")
+require("prototypes.recipe.recipe")
 require("prototypes.recipe.armor")
 require("prototypes.recipe.module")

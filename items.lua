@@ -3,8 +3,7 @@ local powerArmorMKX = table.deepcopy(data.raw["armor"]["power-armor-mk2"]) -- co
 powerArmorMKX.name = "power-armor-mkx"
 powerArmorMKX.icons = {
   {
-    icon = powerArmorMKX.icon,
-    tint = {r=0,g=1,b=0,a=0.3}
+    icon = powerArmorMKX.icon
   },
 }
 

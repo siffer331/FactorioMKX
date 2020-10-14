@@ -4,7 +4,7 @@ data:extend(
     type = "technology",
     name = "power-armor-mk3",
     icon_size = 128,
-    icon = "__base__/graphics/technology/power-armor-mk2.png",
+    icon = "__MKX__/graphics/technology/power-armor-mk3.png",
     effects =
     {
       {

@@ -4,7 +4,7 @@ data:extend(
     type = "technology",
     name = "fusion-reactor-equipment-mk2",
     icon_size = 128,
-    icon = "__base__/graphics/technology/fusion-reactor-equipment.png",
+    icon = "__MKX__/graphics/technology/fusion-reactor-equipment-mk2.png",
     prerequisites = {"fusion-reactor-equipment"},
     effects =
     {

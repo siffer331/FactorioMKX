@@ -1,9 +1,28 @@
 {
   "name": "MKX",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "title": "MK X",
   "author": "Siffer & Tyfl0n",
   "factorio_version": "1.0",
   "dependencies": ["base >= 1.0"],
-  "description": "This mod adds an extra mk for the things you love in Factorio. Power Armor mk 3? You got it! Speed-, Efficiency-, and Productivity module 4? Most definitely! Productivity modules can now be placed in Beacons, while the Productivity module 4 does not have recipe-based limitations. Enjoy :D -Siffer & Tyflon"
+  "description": "This mod adds an extra mk for the things you love in Factorio. Power Armor mk 3? You got it! Speed-, Efficiency-, and Productivity module 4? Most definitely! Productivity modules can now be placed in Beacons, while the Productivity module 4 does not have recipe-based limitations. Enjoy :D
+
+2020-10-13 Version 0.1.0
+-Added Power armor mk3
+-Added Speed-, Efficiency-, and Productivity module 4
+-Productivity modules can be placed in beacons
+-Productivity module 4 has no recipe-based limitations
+
+2020-10-14 Version 0.2.0
+-Added Portable fusion reactor mk2
+-Added Assembling machine 4
+-Added new items to the technology tree
+
+2020-10-15 Version 0.2.1
+-Assembling machine now looks different from assembling machine 3
+-Added module 4 to the tech tree
+-Changed and added to descriptions
+
+
+ -Siffer & Tyflon"
 }

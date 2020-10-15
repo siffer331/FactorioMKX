@@ -68,7 +68,7 @@ data:extend(
       layers =
       {
         {
-          filename = "__base__/graphics/entity/assembling-machine-3/assembling-machine-3.png",
+          filename = "__MKX__/graphics/entity/assembling-machine-4/assembling-machine-4.png",
           priority = "high",
           width = 108,
           height = 119,
@@ -77,7 +77,7 @@ data:extend(
           shift = util.by_pixel(0, -0.5),
           hr_version =
           {
-            filename = "__base__/graphics/entity/assembling-machine-3/hr-assembling-machine-3.png",
+            filename = "__MKX__/graphics/entity/assembling-machine-4/hr-assembling-machine-4.png",
             priority = "high",
             width = 214,
             height = 237,
@@ -88,7 +88,7 @@ data:extend(
           }
         },
         {
-          filename = "__base__/graphics/entity/assembling-machine-3/assembling-machine-3-shadow.png",
+          filename = "__MKX__/graphics/entity/assembling-machine-4/assembling-machine-4-shadow.png",
           priority = "high",
           width = 130,
           height = 82,
@@ -98,7 +98,7 @@ data:extend(
           shift = util.by_pixel(28, 4),
           hr_version =
           {
-            filename = "__base__/graphics/entity/assembling-machine-3/hr-assembling-machine-3-shadow.png",
+            filename = "__MKX__/graphics/entity/assembling-machine-4/hr-assembling-machine-4-shadow.png",
             priority = "high",
             width = 260,
             height = 162,

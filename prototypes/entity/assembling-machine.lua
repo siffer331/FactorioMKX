@@ -1,11 +1,12 @@
 local sounds = require("__base__.prototypes.entity.demo-sounds")
 local hit_effects = require ("__base__.prototypes.entity.demo-hit-effects")
+
 data:extend(
 {
   {
     type = "assembling-machine",
     name = "assembling-machine-4",
-    icon = "__base__/graphics/icons/assembling-machine-3.png",
+    icon = "__MKX__/graphics/icons/assembling-machine-4.png",
     icon_size = 64, icon_mipmaps = 4,
     flags = {"placeable-neutral","placeable-player", "player-creation"},
     minable = {mining_time = 5, result = "assembling-machine-4"},
@@ -24,7 +25,7 @@ data:extend(
     {
       {
         production_type = "input",
-        pipe_picture = assembler3pipepictures(),
+        pipe_picture = assembler4pipepictures(),
         pipe_covers = pipecoverspictures(),
         base_area = 10,
         base_level = -1,
@@ -33,7 +34,7 @@ data:extend(
       },
       {
         production_type = "output",
-        pipe_picture = assembler3pipepictures(),
+        pipe_picture = assembler4pipepictures(),
         pipe_covers = pipecoverspictures(),
         base_area = 10,
         base_level = 1,

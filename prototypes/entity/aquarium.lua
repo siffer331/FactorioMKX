@@ -55,41 +55,41 @@ data:extend(
       layers =
       {
         {
-          filename = "__base__/graphics/entity/assembling-machine-3/assembling-machine-3.png",
+          filename = "__MKX__/graphics/entity/aquarium/hr-aquarium.png",
           priority = "high",
           width = 108,
           height = 119,
-          frame_count = 32,
+          frame_count = 64,
           line_length = 8,
           shift = util.by_pixel(0, -0.5),
           hr_version =
           {
-            filename = "__base__/graphics/entity/assembling-machine-3/hr-assembling-machine-3.png",
+            filename = "__MKX__/graphics/entity/aquarium/hr-aquarium.png",
             priority = "high",
-            width = 214,
-            height = 237,
-            frame_count = 32,
-            line_length = 8,
+            width = 216,
+            height = 238,
+            frame_count = 64,
+            line_length = 64,
             shift = util.by_pixel(0, -0.75),
             scale = 0.5
           }
         },
         {
-          filename = "__base__/graphics/entity/assembling-machine-3/assembling-machine-3-shadow.png",
+          filename = "__MKX__/graphics/entity/aquarium/hr-aquarium.png",
           priority = "high",
           width = 130,
           height = 82,
-          frame_count = 32,
+          frame_count = 64,
           line_length = 8,
           draw_as_shadow = true,
           shift = util.by_pixel(28, 4),
           hr_version =
           {
-            filename = "__base__/graphics/entity/assembling-machine-3/hr-assembling-machine-3-shadow.png",
+            filename = "__MKX__/graphics/entity/aquarium/hr-aquarium.png",
             priority = "high",
-            width = 260,
-            height = 162,
-            frame_count = 32,
+            width = 2, --260
+            height = 2, --162
+            frame_count = 64,
             line_length = 8,
             draw_as_shadow = true,
             shift = util.by_pixel(28, 4),

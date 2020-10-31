@@ -55,12 +55,12 @@ data:extend(
       layers =
       {
         {
-          filename = "__MKX__/graphics/entity/aquarium/aquarium.png",
+          filename = "__base__/graphics/entity/assembling-machine-3/assembling-machine-3.png",
           priority = "high",
           width = 108,
           height = 119,
-          frame_count = 2,
-          line_length = 2,
+          frame_count = 32,
+          line_length = 8,
           shift = util.by_pixel(0, -0.5),
           hr_version =
           {
@@ -68,8 +68,8 @@ data:extend(
             priority = "high",
             width = 214,
             height = 237,
-            frame_count = 2,
-            line_length = 2,
+            frame_count = 32,
+            line_length = 8,
             shift = util.by_pixel(0, -0.75),
             scale = 0.5
           }
@@ -79,8 +79,8 @@ data:extend(
           priority = "high",
           width = 130,
           height = 82,
-          frame_count = 2,
-          line_length = 2,
+          frame_count = 32,
+          line_length = 8,
           draw_as_shadow = true,
           shift = util.by_pixel(28, 4),
           hr_version =
@@ -89,8 +89,8 @@ data:extend(
             priority = "high",
             width = 260,
             height = 162,
-            frame_count = 2,
-            line_length = 2,
+            frame_count = 32,
+            line_length = 8,
             draw_as_shadow = true,
             shift = util.by_pixel(28, 4),
             scale = 0.5
@@ -100,12 +100,12 @@ data:extend(
     },
 
     crafting_categories = {"crafting-with-fish"},
-    crafting_speed = 1000,
+    crafting_speed = 1,
     energy_source =
     {
       type = "electric",
       usage_priority = "secondary-input",
-      emissions_per_minute = 2
+      emissions_per_minute = 100
     },
     energy_usage = "1000kW",
     module_specification =

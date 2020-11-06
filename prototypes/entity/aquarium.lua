@@ -55,12 +55,12 @@ data:extend(
       layers =
       {
         {
-          filename = "__MKX__/graphics/entity/aquarium/hr-aquarium.png",
+          filename = "__MKX__/graphics/entity/aquarium/aquarium.png",
           priority = "high",
           width = 108,
           height = 119,
           frame_count = 64,
-          line_length = 8,
+          line_length = 32,
           shift = util.by_pixel(0, -0.5),
           hr_version =
           {
@@ -69,7 +69,7 @@ data:extend(
             width = 216,
             height = 238,
             frame_count = 64,
-            line_length = 64,
+            line_length = 32,
             shift = util.by_pixel(0, -0.75),
             scale = 0.5
           }
@@ -80,7 +80,7 @@ data:extend(
           width = 130,
           height = 82,
           frame_count = 64,
-          line_length = 8,
+          line_length = 32,
           draw_as_shadow = true,
           shift = util.by_pixel(28, 4),
           hr_version =
@@ -90,7 +90,7 @@ data:extend(
             width = 2, --260
             height = 2, --162
             frame_count = 64,
-            line_length = 8,
+            line_length = 32,
             draw_as_shadow = true,
             shift = util.by_pixel(28, 4),
             scale = 0.5

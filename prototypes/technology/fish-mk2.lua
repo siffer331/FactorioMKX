@@ -3,8 +3,8 @@ data:extend(
 {
   type = "technology",
   name = "fish-mk2",
-  icon_size = 128,
-  icon = "__base__/graphics/technology/atomic-bomb.png",
+  icon_size = 64,
+  icon = "__MKX__/graphics/technology/fish-mk2.png",
   effects =
   {
     {

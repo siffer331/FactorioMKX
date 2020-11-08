@@ -3,12 +3,14 @@ data:extend(
   {
     type = "recipe",
     name = "aquarium",
-    enabled = true,
+    enabled = false,
     category = "crafting-with-fluid",
     ingredients =
     {
-      {"speed-module", 4},
-      {"assembling-machine-2", 2}
+      {"rocket-control-unit", 4},
+      {"assembling-machine-3", 1},
+      {"centrifuge", 1},
+      {type="fluid", name="water", amount=500},
     },
     result = "aquarium"
   },

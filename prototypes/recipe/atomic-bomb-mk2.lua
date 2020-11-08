@@ -3,7 +3,7 @@ data:extend(
   {
     type = "recipe",
     name = "atomic-bomb-mk2",
-    enabled = true,
+    enabled = false,
     energy_required = 50,
     ingredients =
     {

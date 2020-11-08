@@ -3,7 +3,7 @@ data:extend(
   {
     type = "item",
     name = "aquarium",
-    icon = "__base__/graphics/icons/assembling-machine-3.png",
+    icon = "__MKX__/graphics/icons/aquarium.png",
     icon_size = 64, icon_mipmaps = 4,
     subgroup = "production-machine",
     order = "j[aquarium]",

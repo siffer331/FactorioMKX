@@ -3,7 +3,7 @@ data:extend(
   {
     type = "recipe",
     name = "fish-mk2",
-    enabled = true,
+    enabled = false,
     energy_required = 90,
     category = "crafting-with-fish",
     ingredients =

@@ -4,7 +4,7 @@ data:extend(
     type = "technology",
     name = "aquarium",
     icon_size = 128,
-    icon = "__base__/graphics/technology/automation-3.png",
+    icon = "__MKX__/graphics/technology/aquarium.png",
     localised_description = {"technology-description.aquarium"},
     effects =
     {
